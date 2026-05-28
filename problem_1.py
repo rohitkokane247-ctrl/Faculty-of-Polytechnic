@@ -1,6 +1,5 @@
 # Solve the following problem:
 # Write a function to calculate the number of seconds in a week
-
 # Write code here
 
 #calculate seconds in a day 
